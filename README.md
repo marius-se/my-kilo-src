@@ -8,7 +8,7 @@
 
 - C compiler (Check with `cc --version`)
 
-## Installation
+## Setup
 
 1. Compile with a simple `make` in the project's root directory
 
