@@ -16,4 +16,4 @@
 
 ## Sources
 
-This app is inspired by Snaptokens tutorial ["Build Your Own Text Editor"](https://github.com/snaptoken/kilo-src)
+This app is inspired by Snaptokens tutorial ["Build Your Own Text Editor"](https://github.com/snaptoken/kilo-tutorial)
